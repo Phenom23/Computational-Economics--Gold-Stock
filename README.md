@@ -11,10 +11,11 @@ After performing the calculations, the program exports the results for further a
 
 ## How to Run
 
-1. Download the `.exe` file and the folder "Program of Gold". (https://drive.google.com/file/d/1_R6Kg8iwqsjIt9RmKXDCuLjD68MA6CMe/view?usp=sharing)
-2. Place the executable **Program of Gold*.
-3. Run the `.exe` file.
-4. The program will process the data and export the calculated metrics.
+1. Download the `.exe` file and the folder "Program of Gold".
+   https://drive.google.com/file/d/1_R6Kg8iwqsjIt9RmKXDCuLjD68MA6CMe/view?usp=sharing
+3. Place the executable **Program of Gold*.
+4. Run the `.exe` file.
+5. The program will process the data and export the calculated metrics.
 
 ## Output
 
